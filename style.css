@@ -1,0 +1,16 @@
+.box {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background: red;
+    color: rgb(231, 209, 10);
+    font-size: 46px;
+  }
+  
+  #dos {
+    background: black;
+    color: white
+  }
+
+
+
